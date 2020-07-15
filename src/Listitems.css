@@ -1,0 +1,26 @@
+.list {
+  color: white;
+  width: 300px;
+  background-color: cornflowerblue;
+  height: 40px;
+  margin: 20px auto;
+  border-radius: 5px;
+}
+
+.list p {
+  padding: 10px;
+  position: relative;
+}
+
+.list p span {
+  position: absolute;
+  right: 10px;
+  cursor: pointer;
+  color: red;
+  font-size: 20px;
+}
+input[type="text"] {
+  background: transparent;
+  border: none;
+  justify-content: center;
+}
